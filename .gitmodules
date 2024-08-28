@@ -1,3 +1,6 @@
 [submodule "cysec_model"]
 	path = cysec_model
 	url = https://github.com/abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15.git
+[submodule "kws_model"]
+	path = kws_model
+	url = https://github.com/AI-Research-BD/Keyword-MLP
