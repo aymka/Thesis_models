@@ -4,3 +4,6 @@
 [submodule "kws_model"]
 	path = kws_model
 	url = https://github.com/AI-Research-BD/Keyword-MLP
+[submodule "mnist_model"]
+	path = mnist_model
+	url = https://github.com/csbanon/mnist-classifiers.git
