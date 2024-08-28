@@ -1,0 +1,3 @@
+[submodule "cysec_model"]
+	path = cysec_model
+	url = https://github.com/abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15.git
